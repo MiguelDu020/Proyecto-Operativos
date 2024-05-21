@@ -1,0 +1,5 @@
+Pasos para compilar:
+
+1. Abrir el shell y ingresar en la carpeta donde se haya guardado el proyecto.
+2. Ingresar en la consola el comando "make run" para ejecutar el archivo makefile y poner en funcionamiento el programa
+3. Verificar en los archivos file-temp.txt y file-ph.txt si se guardo la informacion de forma correcta.
